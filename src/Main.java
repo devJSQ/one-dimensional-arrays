@@ -5,6 +5,7 @@ public class Main {
       System.out.println(weekdays[weekdays.length - 1]);
       for (int x = 0; x < weekdays.length; x ++){
           System.out.println(weekdays[x]);
+      }
    }
 
 }
